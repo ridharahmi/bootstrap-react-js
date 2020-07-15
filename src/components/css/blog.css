@@ -1,0 +1,14 @@
+.blog,
+.about{
+    margin: 50px 0;
+    text-align:left;
+}
+.blog .card{
+    margin-bottom: 20px;
+}
+.media-body{
+    text-align:left;
+}
+table{
+    margin-top:50px;
+}
