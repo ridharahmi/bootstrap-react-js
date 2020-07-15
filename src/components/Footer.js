@@ -34,7 +34,7 @@ class Footer extends Component {
             </Col>
             <Col md={12}>
             <div className="copyright">
-            <p>© 2020 Copyright VueJs. Tous droits réservés. Réalisé par <a href="https://www.facebook.com/MedRidhaRahmi" target="_blank">Ridha Rahmi</a></p>
+            <p>© 2020 Copyright React Js. Tous droits réservés. Réalisé par <a href="https://www.facebook.com/MedRidhaRahmi" target="_blank">Ridha Rahmi</a></p>
 </div>
             </Col>
         </Row>
