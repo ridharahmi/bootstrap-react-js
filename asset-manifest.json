@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bootstrap-react-js/static/css/main.0d14e611.chunk.css",
+    "main.js": "/bootstrap-react-js/static/js/main.0bef69e2.chunk.js",
+    "main.js.map": "/bootstrap-react-js/static/js/main.0bef69e2.chunk.js.map",
+    "runtime-main.js": "/bootstrap-react-js/static/js/runtime-main.598b08c5.js",
+    "runtime-main.js.map": "/bootstrap-react-js/static/js/runtime-main.598b08c5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bootstrap-react-js/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4a6b3834.chunk.js": "/bootstrap-react-js/static/js/2.4a6b3834.chunk.js",
+    "static/js/2.4a6b3834.chunk.js.map": "/bootstrap-react-js/static/js/2.4a6b3834.chunk.js.map",
+    "index.html": "/bootstrap-react-js/index.html",
+    "precache-manifest.a7253a890b82d6f6fee7ff8063d9608d.js": "/bootstrap-react-js/precache-manifest.a7253a890b82d6f6fee7ff8063d9608d.js",
+    "service-worker.js": "/bootstrap-react-js/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/bootstrap-react-js/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.0d14e611.chunk.css.map": "/bootstrap-react-js/static/css/main.0d14e611.chunk.css.map",
+    "static/js/2.4a6b3834.chunk.js.LICENSE.txt": "/bootstrap-react-js/static/js/2.4a6b3834.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.png": "/bootstrap-react-js/static/media/bootstrap.1e9e93d8.png",
+    "static/media/logo.svg": "/bootstrap-react-js/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.598b08c5.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4a6b3834.chunk.js",
+    "static/css/main.0d14e611.chunk.css",
+    "static/js/main.0bef69e2.chunk.js"
+  ]
+}
